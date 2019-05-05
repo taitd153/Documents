@@ -1,0 +1,4 @@
+﻿Ctrl + { : Giảm cỡ chữ
+Ctrl + } : Tăng cỡ chữ
+Ctrl + A : Bôi đen toàn bộ văn bản
+Shift + Phím điều hướng : Bôi đen nhanh 1 dòng

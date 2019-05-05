@@ -1,0 +1,2 @@
+﻿Window + L : Lock
+Window + . : Emoji (Win 10)
